@@ -1,2 +1,5 @@
 txt v1
-txt3 v2
+<<<<<<< HEAD
+txt4  v2
+=======
+
